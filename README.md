@@ -1,13 +1,9 @@
 Hal yang harus dilakukan untuk menjalankan Laravel web:
 
-Sebelum membuka folder project
 1. Install XAMPP untuk membaca php dan menyimpan database
 2. Install composer untuk menjalankan Laravel
 3. Masukkan keduanya ke dalam PATH computer (Enviorement Variables -> Path -> Edit)
 4. (optional) Install Pentaho atau aplikasi apapun untuk data warehousing
-
-
-Setalah membuka folder project
 5. Import database 'warehouse_basdat' pada folder "data_warehouse" ke dalam databasemu 
 6. jalankan 'php artisan migrate'
 7. Jalankan 'php artisan db:seed'
