@@ -12,6 +12,6 @@ Hal yang harus dilakukan untuk menjalankan Laravel web:
 
 
 Username untuk roles (pass = 123):
-Admin <- 'admin'
-Head <- 'mahdy/devita/dimyadi/tanya'
-Staff <- 'randi/anton/andi/niko'
+1. Admin <- 'admin'
+2. Head <- 'mahdy/devita/dimyadi/tanya'
+3. Staff <- 'randi/anton/andi/niko'
