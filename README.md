@@ -7,7 +7,7 @@ Hal yang harus dilakukan untuk menjalankan Laravel web:
 5. Import database 'warehouse_basdat' pada folder "data_warehouse" ke dalam databasemu 
 6. jalankan 'php artisan migrate'
 7. Jalankan 'php artisan db:seed'
-8. (optional) Jalankan data warehousing dengan aplikasi data warehouse, menggunakan file .ktr pada folder "Data Warehouse" 
+8. (optional) Jalankan data warehousing dengan aplikasi data warehouse, menggunakan file .ktr pada folder "data_warehouse" 
 6. Jalankan 'php artisan serve'
 
 
